@@ -1,3 +1,9 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/Devossian/HomepageBE.git
+	branch = main
+
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/Devossian/HomepageFE.git
+	branch = main
